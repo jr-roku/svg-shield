@@ -23,7 +23,7 @@ describe( "svg-shield", function ()
     <mask id="round-rect"><rect width="130" height="20" rx="5" ry="5" fill="#fff"/></mask>\n\
     <g mask="url(#round-rect)">\n\
         <path fill="#555" d="M0 0h90v20H0z"/>\n\
-        <path fill="#4b1" d="M90 0h60v20H90z"/>\n\
+        <path fill="#4b1" d="M90 0h40v20H90z"/>\n\
     </g>\n\
     <g fill="#fff" text-anchor="middle" font-family="sans-serif" font-size="11">\n\
         <text x="45" y="14" filter="url(#drop-shadow)"></text>\n\
@@ -64,7 +64,7 @@ describe( "svg-shield", function ()
     <mask id="round-rect"><rect width="150" height="20" rx="7" ry="7" fill="#fff"/></mask>\n\
     <g mask="url(#round-rect)">\n\
         <path fill="#333" d="M0 0h100v20H0z"/>\n\
-        <path fill="#000" d="M100 0h60v20H100z"/>\n\
+        <path fill="#000" d="M100 0h50v20H100z"/>\n\
     </g>\n\
     <g fill="#fff" text-anchor="middle" font-family="Verdana, sans-serif" font-size="12">\n\
         <text x="50" y="14" filter="url(#drop-shadow)">name</text>\n\
@@ -96,7 +96,7 @@ describe( "svg-shield", function ()
     <mask id="round-rect"><rect width="130" height="20" rx="5" ry="5" fill="#fff"/></mask>\n\
     <g mask="url(#round-rect)">\n\
         <path fill="#555" d="M0 0h90v20H0z"/>\n\
-        <path fill="#4b1" d="M90 0h60v20H90z"/>\n\
+        <path fill="#4b1" d="M90 0h40v20H90z"/>\n\
     </g>\n\
     <g fill="#fff" text-anchor="middle" font-family="sans-serif" font-size="17">\n\
         <text x="45" y="14" filter="url(#drop-shadow)"></text>\n\
@@ -128,7 +128,7 @@ describe( "svg-shield", function ()
     <mask id="round-rect"><rect width="130" height="20" rx="5" ry="5" fill="#fff"/></mask>\n\
     <g mask="url(#round-rect)">\n\
         <path fill="#555" d="M0 0h90v20H0z"/>\n\
-        <path fill="#4b1" d="M90 0h60v20H90z"/>\n\
+        <path fill="#4b1" d="M90 0h40v20H90z"/>\n\
     </g>\n\
     <g fill="#fff" text-anchor="middle" font-family="sans-serif" font-size="8">\n\
         <text x="45" y="14" filter="url(#drop-shadow)"></text>\n\
@@ -160,7 +160,7 @@ describe( "svg-shield", function ()
     <mask id="round-rect"><rect width="130" height="20" rx="0" ry="0" fill="#fff"/></mask>\n\
     <g mask="url(#round-rect)">\n\
         <path fill="#555" d="M0 0h90v20H0z"/>\n\
-        <path fill="#4b1" d="M90 0h60v20H90z"/>\n\
+        <path fill="#4b1" d="M90 0h40v20H90z"/>\n\
     </g>\n\
     <g fill="#fff" text-anchor="middle" font-family="sans-serif" font-size="11">\n\
         <text x="45" y="14" filter="url(#drop-shadow)"></text>\n\
@@ -192,7 +192,7 @@ describe( "svg-shield", function ()
     <mask id="round-rect"><rect width="130" height="20" rx="10" ry="10" fill="#fff"/></mask>\n\
     <g mask="url(#round-rect)">\n\
         <path fill="#555" d="M0 0h90v20H0z"/>\n\
-        <path fill="#4b1" d="M90 0h60v20H90z"/>\n\
+        <path fill="#4b1" d="M90 0h40v20H90z"/>\n\
     </g>\n\
     <g fill="#fff" text-anchor="middle" font-family="sans-serif" font-size="11">\n\
         <text x="45" y="14" filter="url(#drop-shadow)"></text>\n\
