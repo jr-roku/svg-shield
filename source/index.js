@@ -15,7 +15,7 @@ var shield = {
     <mask id="round-rect"><rect width="{{width}}" height="20" rx="{{radius}}" ry="{{radius}}" fill="#fff"/></mask>\n\
     <g mask="url(#round-rect)">\n\
         <path fill="{{nameBgColor}}" d="M0 0h{{nameWidth}}v20H0z"/>\n\
-        <path fill="{{valueBgColor}}" d="M{{nameWidth}} 0h60v20H{{nameWidth}}z"/>\n\
+        <path fill="{{valueBgColor}}" d="M{{nameWidth}} 0h{{valueWidth}}v20H{{nameWidth}}z"/>\n\
     </g>\n\
     <g fill="#fff" text-anchor="middle" font-family="{{fontFamily}}" font-size="{{fontSize}}">\n\
         <text x="{{nameCenter}}" y="14" filter="url(#drop-shadow)">{{name}}</text>\n\
